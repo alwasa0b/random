@@ -1,4 +1,5 @@
-#The function below takes a list. It then goes over the it to look for duplicate values. If duplicates are found it returns them.
+#The function below takes a list. It then goes over it to look for duplicate values. 
+#If duplicates are found the function returns them.
 
 def function(a):    
     def f1(a, b):
