@@ -30,18 +30,18 @@ def function2(a):
 
 a=[9,9,2,2,5,5,8,8,1,1,5,2,2,5,1]
 b=[9,9,2,2,5,5,1,1,5,2,2,5,1,50,50,8,8,10,10,12,12]
-c=[1,9,9,1]
+c=[1,9,9,1,51,51,67,67,1007,1007]
 d=[1,8,8,1]
 
-print function(a)
-print function2(a)
+print 'function(a) : ', function(a)
+print 'function2(a): ', function2(a)
 
 
-print function(b)
-print function2(b)
+print 'function(b) : ', function(b)
+print 'function2(b): ',function2(b)
 
-print function(c)
-print function2(c)
+print 'function(c) : ',function(c)
+print 'function2(c): ',function2(c)
 
-print function(d)
-print function2(d)
+print 'function(d) : ',function(d)
+print 'function2(d): ',function2(d)
